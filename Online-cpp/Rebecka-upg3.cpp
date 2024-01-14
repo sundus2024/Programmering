@@ -37,7 +37,7 @@ int main() {
     cout << endl;
     
     float total;
-    total = (pris1+pris2)*0.12;
+    total = (pris1+pris2)*1.12;
     
     cout << "Total inklusive moms: " <<total<< "kr";
     cout << endl;
